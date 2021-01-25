@@ -1,6 +1,6 @@
-# :sparkles: Real-Time Colors App Review :sparkles:
+<h1 align="center"> :sparkles: Real-Time Colors App Review :sparkles: </h1>
 
-<p>
+<p align="center">
   <img src="figures/colors-app-800px.gif" title="gif">
 </p>
 
